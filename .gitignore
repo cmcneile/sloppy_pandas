@@ -11,3 +11,7 @@
 *.vrb
 develop
 configs_fix_8888
+*.csv
+input 
+corr
+readme_git
